@@ -11,3 +11,4 @@ TensorFlow 기반으로 학습된 모델을 불러와 MNIST 손글씨 이미지�
 ## 실행 방법
 ```bash
 python mnist_inference_tf2.x.py
+![캡처](https://github.com/user-attachments/assets/8732131d-d9de-4ae4-91b5-a693d5fc354f)
